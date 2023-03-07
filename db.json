@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Kevin Homenick",
+      "id": 2
+    },
+    {
+      "name": "Bobbie Franecki",
+      "id": 3
+    },
+    {
+      "name": "Christina Reilly",
+      "id": 4
+    },
+    {
+      "name": "Amelia Schinner",
+      "id": 5
+    },
+    {
+      "name": "Jeffrey Reynolds",
+      "id": 6
+    },
+    {
+      "name": "Miss Daisy Orn",
+      "id": 7
+    },
+    {
+      "name": "Carrie Kohler",
+      "id": 8
+    },
+    {
+      "name": "Geoffrey Streich IV",
+      "id": 9
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
