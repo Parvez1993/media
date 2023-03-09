@@ -7,3 +7,7 @@ export const store = configureStore({
     users: userReducer,
   },
 });
+
+export * from './thunks/fetchUsers';
+export * from './thunks/addUser';
+export * from './thunks/removeUser';
