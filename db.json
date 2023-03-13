@@ -1,54 +1,30 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Myra"
+      "name": "Pat Emard",
+      "id": 1
     },
     {
-      "name": "Elsie Price",
+      "name": "Rosa Cole",
+      "id": 2
+    },
+    {
+      "name": "Johnnie Jerde",
       "id": 3
     },
     {
-      "name": "Harold Strosin",
+      "name": "Tommy Corwin",
       "id": 4
+    },
+    {
+      "name": "Jenny Rau",
+      "id": 5
+    },
+    {
+      "name": "Mr. Stewart McKenzie MD",
+      "id": 6
     }
   ],
-  "albums": [
-    {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Plastic Keyboard",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Bespoke Fresh Computer",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Electronic Fresh Chips",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Refined Frozen Bike",
-      "id": 14
-    },
-    {
-      "userId": 1,
-      "title": "Electronic Bronze Mouse",
-      "id": 15
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Rubber Bike",
-      "id": 16
-    }
-  ],
+  "albums": [],
   "photos": []
 }
