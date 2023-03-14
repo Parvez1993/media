@@ -25,6 +25,48 @@
       "id": 6
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Sleek Rubber Pants",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "title": "Rustic Steel Sausages",
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "title": "Tasty Steel Fish",
+      "id": 3
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=45875",
+      "id": 4
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=14681",
+      "id": 5
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=40711",
+      "id": 6
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=28200",
+      "id": 8
+    },
+    {
+      "albumId": 3,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15133",
+      "id": 9
+    }
+  ]
 }
